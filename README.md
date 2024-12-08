@@ -45,5 +45,3 @@ This project is part of an academic assignment designed to enhance understanding
   - Sort `Car` objects in **descending order** by `modelYear`.
 - Create 10 different `Car` objects with varying attributes.
 - Update the QuickSort partition method (Page 291) to reverse the sorting order.
-
-## File Structure
